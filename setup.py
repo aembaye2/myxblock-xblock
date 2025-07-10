@@ -24,7 +24,7 @@ def package_data(pkg, roots):
 
 setup(
     name='myxblock-xblock',
-    version='0.1',
+    version='1.0.0',
     description='myxblock XBlock',   # TODO: write a better description.
     # TODO: choose a license: 'AGPL v3' and 'Apache 2.0' are popular.
     license='UNKNOWN',
